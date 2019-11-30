@@ -1,0 +1,6 @@
+framework module Pods_HotGistsTests {
+  umbrella header "Pods-HotGistsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
